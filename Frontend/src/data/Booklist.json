@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Adventures of a Young Hero",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Horror Book",
+    "title": "Haunted Nights",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Action Book",
+    "title": "Chasing Shadows",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Science Book",
+    "title": "Physics Simplified",
+    "price": 10,
+    "category": "Science",
+    "image": "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Music Book",
+    "title": "Guitar Mastery",
+    "price": 23,
+    "category": "Music",
+    "image": "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Fantasy Book",
+    "title": "Dragons of Eternity",
+    "price": 15,
+    "category": "Fantasy",
+    "image": "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Romance Book",
+    "title": "Love in Paris",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "History Book",
+    "title": "World Wars Explained",
+    "price": 12,
+    "category": "History",
+    "image": "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Cooking Book",
+    "title": "Delicious Recipes",
+    "price": 18,
+    "category": "Cooking",
+    "image": "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Biography Book",
+    "title": "Life of a Legend",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Travel Book",
+    "title": "Exploring the World",
+    "price": 20,
+    "category": "Travel",
+    "image": "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Art Book",
+    "title": "Masterpieces of the Century",
+    "price": 25,
+    "category": "Art",
+    "image": "https://images.pexels.com/photos/415071/pexels-photo-415071.jpeg"
+  }
+]
